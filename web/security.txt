@@ -1,5 +1,0 @@
-# This is a security.txt file according to https://github.com/EdOverflow/security-txt
-
-Contact: https://huntr.dev/repos/azuracast/azuracast
-Policy: https://github.com/AzuraCast/AzuraCast/security/policy
-Preferred-Languages: en
